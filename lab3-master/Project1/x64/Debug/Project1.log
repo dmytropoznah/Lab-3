@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\5kurs\ai\lab3\project1\project1\main.cpp(39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\5kurs\ai\lab3\project1\project1\main.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\5kurs\ai\lab3\project1\project1\main.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> D:\5Kurs\ai\lab3\Project1\x64\Debug\Project1.exe
+  Project1.vcxproj -> D:\5Kurs\ai\lab3\Project1\x64\Debug\Project1.pdb (Partial PDB)
