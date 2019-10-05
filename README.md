@@ -20,4 +20,4 @@
 Замикання:
 ![Замикання](https://i.pinimg.com/originals/b6/1c/48/b61c48840d5ab62f822693b2fa1b0605.png)
 
-[Посилання на відео з розмиттям](https://youtu.be/tjFzDdpoYe8)
+[Розмиття по Гаусу (відео)](https://youtu.be/tjFzDdpoYe8)
